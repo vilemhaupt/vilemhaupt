@@ -1,6 +1,6 @@
 ### Vítej na mém github učtě
 
-## Juniorní programátor
+# Jsem Juniorní programátor webovýh stránek a aplikací
 
 
 ### Zkušenosti
