@@ -1,5 +1,10 @@
 ### Vítej na mém github učtě
 
+## Juniorní programátor
+
+
+### Zkušenosti
+
 
 # Moje statistiky:
 [![Moje github statistiky](https://github-readme-stats.vercel.app/api?username=vilemhaupt&theme=onedark)]
